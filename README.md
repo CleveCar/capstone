@@ -46,7 +46,7 @@ A database is an organized collection of data that multiple people can access at
 
 The artifact that was chosen is one that signifies and implements the categories of software engineering, data structures and algorithms, and databases. This application is a web interface that is designed to allow a user to see data based on the choice they make. The security of the application is done by providing a salt for the password and using a secure ssl interface connection to connect to the database. The data structures used are  a bar chart, a table, and a map that allows for displaying data based on the algorithm of sorting the data by a choice of either mountain rescue, water rescue, or disaster rescue. This application uses the schemaless database MongoDB that contains the data that the queries are ran on. 
 
-https://youtu.be/3ABdU2LrOVo
+
 
 
 
