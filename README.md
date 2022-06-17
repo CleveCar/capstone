@@ -1,8 +1,8 @@
 # CS-499 Capstone
 
-##Professional Self- Assessment
+## Professional Self- Assessment
 
-######Strengths
+###### Strengths
 
 Throughout my tenure at SNHU, I have learned various programming languages and their structures. My first encounter with programming started there. I am able to recognize my strengths by being able to write programs based on the requirements. These programs are simple programs that enables me to learn and grow. One of my greatest takeaways from my experience with the coursework is time management. There were times that I felt that I would not get my modules completed on time. With the help of my advisor, I was able to complete my projects. My journey involved learning how to conduct research, write good papers with proper formatting, and getting help from others or online when I get stuck. These strengths have prepared me for my Capstone by grooming my skills for perseverance. While the Capstone was on artifacts from past courses, the concept of performing enhancements was challenging and rewarding. This ePortfolio is a culmination of all that I have learned along with the skills of management and teamwork.
 
