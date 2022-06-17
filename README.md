@@ -16,6 +16,7 @@ My greatest accomplishment is getting my Bachelor’s degree. This lies on the b
 Other accomplishments include skills that I have acquired in scanning networks for vulnerabilities. Some of these tools are Nmap, Zenmap, Snort, OpenVas, and Wireshark. Another skill that I have acquired is knowing how to create an application that uses Maven Dependency to check and find solutions to fix vulnerabilities that exist in the code that I am writing.
 
 Goals
+
 My goal is to be one of the best cyber security professionals. That does not mean I will not pursue more knowledge in coding or network security. I believe that knowing more about networks and being good in coding will give me an edge in cyber security. I hope to be employed as an aspiring security specialist that can help to secure the cyber environment and make people lives better.
 Collaborating in a Team Environment
 Collaborating in a team environment gives people working together an opportunity to produce their best work. When collaborating in a team environment, a person must not judge and pass blame to another person but speak to that person on the side to not alienate them. If a person cannot be spoken to, the concern should be voiced to a supervisor in confidence. In my environment, I would always be the person that would keep the members calm and work toward an agreement that benefits all. If this is not done, the project will fall behind resulting in monetary loss and time.
