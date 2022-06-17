@@ -1,3 +1,3 @@
 # capstone
 
-[Code Review}(https://youtu.be/3ABdU2LrOVo)
+[Code Review](https://youtu.be/3ABdU2LrOVo)
